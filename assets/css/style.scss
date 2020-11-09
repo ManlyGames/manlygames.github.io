@@ -5,5 +5,8 @@ li{
   color: #ecf0f1;
 }
 
-@import "base";
+body{
+  background-color: #95a5a6;
+}
+
 @import "mixins";
