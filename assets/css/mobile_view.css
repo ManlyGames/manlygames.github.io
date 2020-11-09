@@ -1,0 +1,30 @@
+.show-on-mobile{
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.hide-on-mobile{
+    width: 1;
+    height: 1;
+    visibility: visible;
+    opacity: 1;
+}
+
+@media screen and (max-width: 980px){
+  .hide-on-mobile{
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    opacity: 0;
+  }
+  
+  .show-on-mobile{
+    width: 1;
+    height: 1;
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
