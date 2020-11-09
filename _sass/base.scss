@@ -1,6 +1,13 @@
 
+a{
+    text-decoration: none;
 
-.main-header{
-  font-size: 40px;
-  text-transform: uppercase;
+    &:hover{
+        text-decoration: underline;
+    }
+
+    .main-header{
+        font-size: 50px;
+        text-transform: uppercase;
+    }
 }
