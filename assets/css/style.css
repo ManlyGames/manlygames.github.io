@@ -2,6 +2,12 @@
   font-family: 'Oswald', sans-serif;
 }
 
+.nav-link{
+  margin:5px;
+  padding:5px;
+  font-size:30px;
+}
+
 ::selection{
   background-color: #2ecc71;
 }
