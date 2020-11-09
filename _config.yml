@@ -4,3 +4,25 @@ baseurl: " "
 head_title: Manly Games
 footer: Website of Manly Games
 favicon: favicon.ico
+collections:
+  posts:
+    permalink: "/blog/:categories/:title/"
+    output: true
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+- scope:
+    path: ''
+  values:
+    image: " "
+feed:
+  categories:
+  - news
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: plaintext
+sass:
+  style: compressed
+strict_front_matter: true
