@@ -28,6 +28,7 @@ plugins:
 feed:
   categories:
   - news
+  - devblog
 kramdown:
   syntax_highlighter_opts:
     default_lang: plaintext
