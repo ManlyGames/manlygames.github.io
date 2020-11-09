@@ -22,3 +22,10 @@ a:hover{
 body{
   background-color: #95a5a6;
 }
+
+footer{
+  font-size:15px;
+  text-align:center;
+  bottom:0;
+  position:static;
+}
