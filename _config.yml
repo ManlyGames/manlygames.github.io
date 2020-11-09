@@ -1,7 +1,8 @@
 
 url: https://manly-games.github.io
 baseurl: " "
-head_title: Manly Games
+name: Manly Games
+description: We make games
 footer: Website of Manly Games
 favicon: favicon.ico
 collections:
