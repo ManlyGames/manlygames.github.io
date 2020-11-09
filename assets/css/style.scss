@@ -1,7 +1,4 @@
-html, 
-body, 
-a, 
-li{
+html, body, a, li{
   color: #ecf0f1;
 }
 
@@ -9,19 +6,17 @@ li{
   padding-left: 10px;
 }
 
-
 a{
-  text-decoration: none;
-  
-  &:hover{
-    text-decoration: underline;
-  }
-  
-  &.main-header{
-    font-size: 50px;
-    text-transform: uppercase;
-  }
-  
+  text-decoration: none;  
+}
+
+.main-header{
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+a:hover{
+  text-decoration: underline;
 }
 
 body{
