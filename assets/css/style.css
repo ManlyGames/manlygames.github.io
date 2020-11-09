@@ -1,0 +1,25 @@
+html, body, a, li{
+  color: #ecf0f1;
+}
+
+.content{
+    padding-left: 10px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.main-header{
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+body{
+  background-color: #95a5a6;
+}
