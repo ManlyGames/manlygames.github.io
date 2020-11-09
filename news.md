@@ -5,5 +5,5 @@ permalink: /news/
 ---
 
 {% for page in site.categories.news %}
-<a href="{{ page.permalink }}">{{ page.title }}</a>
+<a href="{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
