@@ -2,11 +2,11 @@
 a{
     text-decoration: none;
 
-    &:hover{
+    :hover{
         text-decoration: underline;
     }
 
-    &.main-header{
+    .main-header{
         font-size: 50px;
         text-transform: uppercase;
     }
