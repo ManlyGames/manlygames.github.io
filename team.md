@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-layout: base
+layout: page
 title: Team
 ---
 
