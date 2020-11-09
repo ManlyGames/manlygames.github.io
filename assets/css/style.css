@@ -2,6 +2,9 @@
   font-family: 'Oswald', sans-serif;
 }
 
+::selection{
+  background-color: #2ecc71;
+}
 
 html, body, a, li{
   color: #ecf0f1;
