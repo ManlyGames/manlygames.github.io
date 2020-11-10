@@ -11,5 +11,6 @@ The entire teams is of 7 members:
 - Sin
 - Murphy05
 - Max Fire
-- Bobby3165
+- Bobby
+- Franky 
 
