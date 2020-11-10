@@ -4,7 +4,7 @@ layout: base
 title: Team
 ---
 
-The entire teams is of 7 members:
+The entire teams is of 8 members:
 - NrdyBhu1
 - BluTuthBoi
 - SplitsShot
