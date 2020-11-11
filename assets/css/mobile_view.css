@@ -8,6 +8,10 @@
     opacity: 1;
 }
 
+.center-on-mobile{
+    text-align: left;
+}
+
 @media screen and (max-width: 500px){
   .hide-on-mobile{
     visibility: hidden;
@@ -17,6 +21,10 @@
   .show-on-mobile{
     visibility: visible;
     opacity: 1;
+  }
+  
+  .center-on-mobile{
+      text-align: center;
   }
 }
 
