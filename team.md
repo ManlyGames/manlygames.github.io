@@ -1,10 +1,10 @@
 ---
+title: Team
 permalink: /team/
 layout: base
-title: Team
 ---
 
-The entire teams is of 8 members:
+The entire teams is of 11 members:
 - NrdyBhu1
 - BluTuthBoi
 - SplitsShot
@@ -13,4 +13,6 @@ The entire teams is of 8 members:
 - Max Fire
 - Bobby
 - Franky 
-
+- The Who 
+- Lucy
+- Chiyo
