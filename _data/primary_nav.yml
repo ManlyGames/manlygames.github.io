@@ -6,3 +6,5 @@
   url: /downloads/
 - name: News
   url: /news/
+- name: DevBlogs
+  url: /devblogs/
