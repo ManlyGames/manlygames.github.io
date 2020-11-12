@@ -35,4 +35,5 @@ kramdown:
     default_lang: plaintext
 sass:
   style: compressed
+  sass_dir: _sass
 strict_front_matter: true
