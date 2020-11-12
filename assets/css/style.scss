@@ -5,12 +5,7 @@
 
 body{
   font-family: 'Oswald', sans-serif;
-}
-
-.nav-link{
-  margin:5px;
-  padding:5px;
-  font-size:30px;
+  background-color: #95a5a6;
 }
 
 ::selection{
@@ -28,9 +23,21 @@ html, body, a, li{
 a{
   text-decoration: none;
   color: #2c3e50;
+  
+  &:hover{
+    text-decoration: underline;
+    color: #3498db;
+  }
+  
+  &.nav-link{
+    margin:5px;
+    padding:5px;
+    font-size:30px;
+  } 
 }
 
-.main-img::before{
+.main-img{
+  &::before{
     content: "";
     position: absolute;
     width: 100%;
@@ -40,24 +47,16 @@ a{
     transform: scale(0);
     opacity: 0;
     transition: 0.2s linear;
-}
-
-.main-img:hover{
+  }
+  
+  &:hover{
     transform: scale(1.6) rotate(25deg);
-}
-
-.main-img:hover::before{
+  }
+  
+  &:hover::before{
     opacity: 1;
     transform: scale(1);
-}
-
-a:hover{
-  text-decoration: underline;
-  color: #3498db;
-}
-
-body{
-  background-color: #95a5a6;
+  }
 }
 
 footer{
