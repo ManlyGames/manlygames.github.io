@@ -17,7 +17,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/assets/img/logox2.png"
+    image: "/assets/img/second.png"
 plugins:
 - jekyll-avatar
 - jekyll-feed
