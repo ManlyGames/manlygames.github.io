@@ -16,3 +16,4 @@ The entire teams is of 11 members:
 - The Who 
 - Lucy
 - Chiyo
+- Shy
