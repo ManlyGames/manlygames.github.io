@@ -17,3 +17,7 @@ The entire teams is of 11 members:
 - Lucy
 - Chiyo
 - Shy
+- Priyanshu
+- Shippuden
+- Xavier
+- Shoesuke
