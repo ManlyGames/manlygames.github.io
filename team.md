@@ -21,3 +21,4 @@ The entire teams is of 11 members:
 - Shippuden
 - Xavier
 - Shoesuke
+- Ghost
