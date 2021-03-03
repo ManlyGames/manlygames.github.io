@@ -10,7 +10,7 @@ $border-radius: 7px;
 
 
 $white-color: #fefefe;
-$glass-color: lighten($background-color, 2%);
+$glass-color: darken($background-color, 2%);
 $grey-color: #546E7A;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
@@ -27,7 +27,7 @@ $blue-color: #2196F3;
 body{
   font-family: 'Oswald', sans-serif;
   //background-color: $background-color;
-  text-align: center;
+  // text-align: center;
 }
 
 ::selection{
@@ -44,7 +44,7 @@ html, body, a, li{
 
 a{
   text-decoration: none;
-  color: #2c3e50;
+  color: #ABA1D1;
   
   &:hover{
     text-decoration: underline;
